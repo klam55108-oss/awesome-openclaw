@@ -288,26 +288,6 @@ See all [providers documentation](https://docs.openclaw.ai/providers).
 
 ---
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
-OpenClaw itself is released under the Apache 2.0 License.
-
----
-
-## Author
-
-- **Author**: geekjourneyx
-- **X (Twitter)**: https://x.com/seekjourney
-- **WeChat Official Account**: 极客杰尼
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/geekjourneyx/awesome-developer-go-sail/main/docs/assets/qrcode.jpg" alt="WeChat Official Account: 极客杰尼" width="180" />
-</p>
-
----
-
 <div align="center">
 
 **Made with heart for OpenClaw**
